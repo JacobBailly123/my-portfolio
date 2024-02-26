@@ -1,0 +1,139 @@
+body.home {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+
+}
+
+.header {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+.header-left a {
+    color: #e74c3c;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+#intro {
+    font-size: 18px;
+    margin: 75px 20px;
+    padding: 15px;
+    background-color: violet;
+    text-align: left;
+}
+
+#hobby {
+    font-size: 18px;
+    margin: 75px 20px;
+    padding: 15px;
+    background-color: green;
+    text-align: left;
+}
+
+#interests,
+#career {
+   font-size: 18px;
+   margin: 75px 20px;
+   padding: 15px;
+   background-color: white;
+   text-align: left;
+}
+
+
+#career {
+   margin-bottom: 100px;
+}
+
+
+#headshot {
+   position: fixed;
+   bottom: 0;
+   left: 75%;
+   width: 338px;
+   height: 310px;
+}
+
+
+
+.contact-form {
+    background-color: #3498db;
+    color: white; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+}
+
+.body-contact{
+    background-color: grey;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #27ae60; 
+    color: white; 
+}
+
+
+.contact-form input[type="submit"] {
+    background-color: #e74c3c; 
+    color: white; 
+    cursor: pointer;
+}
+
+
+body.portfolioworks {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+body.portfolioworks .math-works {
+    background-color: grey;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+
+body.portfolioworks h1 {
+
+    font-size: 24px;
+    padding: 40px;
+    margin-bottom: 2px;
+
+}
+
+body.portfolioworks .cs-works {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+body.portfolioworks p {
+    font-size: 18px;
+    margin: 5px 5px;
+    padding: 10px;
+}
+
+body.portfolioworks h2 {
+    font-size: 24px;
+    padding: 40px;
+    margin-bottom: 2px;
+}
+
